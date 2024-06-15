@@ -1,0 +1,13 @@
+{
+  "title": "Website Name",
+  "menus": {
+    "system": "Auto Mode",
+    "dark": "Dark Mode",
+    "light": "Light Mode",
+    "goto-app": "Go to Website Name"
+  },
+  "languages": {
+    "zh": "Chinese",
+    "en": "English"
+  }
+}
